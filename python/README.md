@@ -1,6 +1,6 @@
-# Biblioteca para Maratonas de Programação
+# Biblioteca
 
-Este pacote contém exemplos em Markdown para documentação de algoritmos comuns em maratonas de programação.
+IF Goiano - Campus Urutaí
 
 ## Arquivos incluídos
 
@@ -8,7 +8,7 @@ Este pacote contém exemplos em Markdown para documentação de algoritmos comun
 - `dfs.md`
 - `bfs.md`
 
-## Estrutura sugerida para cada algoritmo
+## Estrutura para cada algoritmo
 
 ```md
 # Nome do algoritmo
